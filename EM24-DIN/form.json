@@ -28,7 +28,7 @@
 	"actions": [
 		{
 			"type": "Button",
-			"caption": "Test",
+			"caption": "Read Values",
 			"onClick": "CGEM24_RequestRead($id);"
 		}
 	]
